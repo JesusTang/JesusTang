@@ -1,5 +1,5 @@
  Hi, I’m @JesusTang
-I've just beginned to learn code as of the creation of this profile.
-I'm excited to learn and hopefully everything will go well :)
-
--> Currently learning with Coding Dojo LATAM. 
+Residing in Lima, Peru
+Bilingual - Spanish / English
+I'm a Full Stack Python Developer, graduated from Coding Dojo LATAM.
+I'm looking forward to learning more about the world of programming and web/software development. 
